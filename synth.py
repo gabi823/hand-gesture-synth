@@ -1,0 +1,1 @@
+# synth type music note logic
