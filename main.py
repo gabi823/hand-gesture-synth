@@ -15,7 +15,7 @@ from hand_detector import HandDetector
 from gesture_classifier import classify
 from synth import Synth
 
-#draw overlays on the frame
+#draw overlays on the frame??
 
 
 #main loop
